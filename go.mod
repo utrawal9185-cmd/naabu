@@ -12,24 +12,24 @@ require (
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/miekg/dns v1.1.72
 	github.com/pkg/errors v0.9.1
-	github.com/projectdiscovery/blackrock v0.0.1
-	github.com/projectdiscovery/cdncheck v1.2.46
-	github.com/projectdiscovery/clistats v0.1.4
-	github.com/projectdiscovery/dnsx v1.3.0
+	github.com/projectdiscovery/blackrock v0.0.2
+	github.com/projectdiscovery/cdncheck v1.2.51
+	github.com/projectdiscovery/clistats v0.1.6
+	github.com/projectdiscovery/dnsx v1.3.1
 	github.com/projectdiscovery/fdmax v0.0.4
 	github.com/projectdiscovery/freeport v0.0.7
-	github.com/projectdiscovery/goflags v0.1.75
-	github.com/projectdiscovery/gologger v1.1.71
-	github.com/projectdiscovery/ipranger v0.0.59
+	github.com/projectdiscovery/goflags v0.1.76
+	github.com/projectdiscovery/gologger v1.1.72
+	github.com/projectdiscovery/ipranger v0.0.63
 	github.com/projectdiscovery/mapcidr v1.1.97
-	github.com/projectdiscovery/networkpolicy v0.1.44
+	github.com/projectdiscovery/networkpolicy v0.1.48
 	github.com/projectdiscovery/ratelimit v0.0.88
-	github.com/projectdiscovery/retryabledns v1.0.115
-	github.com/projectdiscovery/retryablehttp-go v1.3.21
+	github.com/projectdiscovery/retryabledns v1.0.116
+	github.com/projectdiscovery/retryablehttp-go v1.3.24
 	github.com/projectdiscovery/uncover v1.2.1
-	github.com/projectdiscovery/utils v0.11.1
+	github.com/projectdiscovery/utils v0.11.2
 	github.com/remeh/sizedwaitgroup v1.0.0
-	github.com/stretchr/testify v1.11.1
+	github.com/stretchr/testify v1.12.1
 	go.uber.org/multierr v1.11.0
 	golang.org/x/exp v0.0.0-20260112195511-716be5621a96
 	golang.org/x/net v0.55.0
@@ -51,7 +51,6 @@ require (
 	github.com/charmbracelet/x/ansi v0.3.2 // indirect
 	github.com/cheggaaa/pb/v3 v3.1.4 // indirect
 	github.com/cnf/structhash v0.0.0-20250313080605-df4c6cc74a9a // indirect
-	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/djherbis/times v1.6.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
@@ -79,11 +78,10 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.15.3-0.20240618155329-98d742f6907a // indirect
-	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55 // indirect
 	github.com/projectdiscovery/asnmap v1.1.1 // indirect
-	github.com/projectdiscovery/fastdialer v0.5.14 // indirect
-	github.com/projectdiscovery/hmap v0.0.101 // indirect
+	github.com/projectdiscovery/fastdialer v0.5.18 // indirect
+	github.com/projectdiscovery/hmap v0.0.102 // indirect
 	github.com/projectdiscovery/machineid v0.0.0-20250715113114-c77eb3567582 // indirect
 	github.com/refraction-networking/utls v1.8.2 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
@@ -109,6 +107,7 @@ require (
 	github.com/zmap/rc2 v0.0.0-20190804163417-abaa70531248 // indirect
 	github.com/zmap/zcrypto v0.0.0-20240803002437-3a861682ac77 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/crypto v0.52.0 // indirect
 	golang.org/x/mod v0.35.0 // indirect
 	golang.org/x/oauth2 v0.27.0 // indirect
